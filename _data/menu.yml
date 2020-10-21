@@ -33,7 +33,7 @@ entries:
     entries: false
 
   - title: about me
-    url: me
+    url: about
     
 
   # - title: thoughts
