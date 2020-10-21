@@ -1,9 +1,9 @@
-title: no style, please! # name of the site
-author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
-url: https://riggraz.dev/no-style-please # root address of the site
+title: Kusuma Dev # name of the site
+author: Mohamad Indirwan Adi Kusuma # name of site's author
+email: indirwana@gmail.com # email of site's author
+url: https://indirwanadi.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  A place to showcase work and projects
 
 permalink: /:slug.html
 
@@ -13,7 +13,7 @@ favicon: "./logo.png" # relative path to site's favicon
 theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "light" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
@@ -25,4 +25,3 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-future: true

@@ -5,33 +5,57 @@ entries:
   - title: info
     url: false
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: Mohamad Indirwan Adi Kusuma, S.Kom
         url: false
-      - title: github
-        url: https://github.com/riggraz/no-style-please
-      - title: used by riggraz.dev
+      - title: WA/SMS => +62823-2466-9467
+        url: https://api.whatsapp.com/send?phone=6282324669467&text=Halo, saya ingin bekerja sama dengan anda :)
+      - title: e-mail => indirwana@gmail.com
+        url: mailto:indirwana@gmail.com
+      - title: github repo
+        url: https://github.com/indirwanadi
+      - title: inspired by riggraz
         url: https://riggraz.dev/
 
-  - title: thoughts
+  - title: portofolio
+    url: false
+    entries:
+      - title: Naive Bayes Algorithm for classification 
+        url: false
+        entries:
+          - title: Klasifikasi Tweet NBC
+            url: false
+          - title: Klasifikasi Penyakit Jantung
+            url: false
+
+  - title: blog posts
     post_list: true
     url: false
     entries: false
 
-  - title: rss
-    url: feed.xml
+  - title: about me
+    url: me
+    
+
+  # - title: thoughts
+  #  post_list: true
+  #  url: false
+  #  entries: false
+
+  # - title: rss
+  #  url: feed.xml
   
-  - title: another list
-    url: false
-    entries:
-      - title: with subitems
-        url: false
-        entries:
-          - title: with subsubitems
-            url: false
-          - title: example page
-            url: about
-  - title: PRO TIP
-    url: false
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
-        url: false
+  # - title: another list
+  #  url: false
+  # entries:
+  #    - title: with subitems
+  #      url: false
+  #      entries:
+  #        - title: with subsubitems
+  #          url: false
+  #        - title: example page
+  #          url: about
+  # - title: PRO TIP
+  #  url: false
+  #  entries:
+  #    - title: to edit this menu, edit _data/menu.yml file
+  #      url: false
