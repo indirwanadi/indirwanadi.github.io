@@ -13,13 +13,23 @@ entries:
         url: mailto:indirwana@gmail.com
       - title: github repo
         url: https://github.com/indirwanadi
-      - title: inspired by riggraz
+      - title: theme inspired by riggraz
         url: https://riggraz.dev/
+        entries:
+        - title: about me
+          url: about
 
   - title: portofolio
     url: false
     entries:
-      - title: Naive Bayes Algorithm for classification 
+      - title: naive bayes algorithm for classification 
+        url: false
+        entries:
+          - title: Klasifikasi Tweet NBC
+            url: false
+          - title: Klasifikasi Penyakit Jantung
+            url: false
+      - title: k-nearest neighbors algorithm for classification 
         url: false
         entries:
           - title: Klasifikasi Tweet NBC
@@ -31,10 +41,6 @@ entries:
     post_list: true
     url: false
     entries: false
-
-  - title: about me
-    url: about
-    
 
   # - title: thoughts
   #  post_list: true
