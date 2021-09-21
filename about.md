@@ -11,9 +11,9 @@ Finished study as a bachelor student in Informatics Engineering at Dian Nuswanto
 
 Of course, it made me have to deal with things like Web Development, Algorithm, Data Science, Machine Learning and many more.
 
-I used to play around with several technology such as Python, PHP, Ruby, Vue.Js, and React.Js ...
+I used to play around with several technology such as Python, PHP, Ruby, Vue.js, and React.js, Ember.js ...
 
 <hr data-content="philosophy" />
 
-<strong>"He who sweats more in training, bleeds less in war." ~ Spartan</strong>
+<strong>"He who sweats more in training, bleeds less in war." ~ Unknown</strong>
 
